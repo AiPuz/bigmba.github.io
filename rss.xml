@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>币哥 </title>
+    <link>https://bigmba.github.io</link>
+    <atom:link href="https://bigmba.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>来币哥这里学MBA</description>
+    <generator>Solo, v4.3.1, https://b3log.org/solo</generator>
+    <lastBuildDate>Sun, 23 May 2021 18:20:33 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <item>
+      <title>什么是BigMba?</title>
+      <link>https://bigmba.github.io/articles/2021/05/23/1621764749804.html</link>
+      <description/>
+      <author>BigMba</author>
+      <guid>https://bigmba.github.io/articles/2021/05/23/1621764749804.html</guid>
+      <category>区块链</category>
+      <category>域名</category>
+      <category>闲谈</category>
+      <pubDate>Sun, 23 May 2021 18:12:30 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
